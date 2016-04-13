@@ -14,7 +14,7 @@ combinar con puntos de tal forma que un número válido es 10,592.76. Debe tener
 Algunos ejemplos de entrada pueden ser (uso [] para denotar lista):
 
     [10,592.76, '+', '780', '+', 10000, '*', 200.76]
-    [1, '/', 323-765]
+    [1, '/', 323, '-', 765]
     [1, '+', 2]
 
 En caso existir algún error debe devolver un mensaje de error.
